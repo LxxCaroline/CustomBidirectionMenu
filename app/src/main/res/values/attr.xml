@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrollHomePage">
+        <attr name="menuWidth" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="CustomContentSlideLayout">
+        <attr name="leftMenuWidth" format="dimension" />
+        <attr name="rightMenuWidth" format="dimension" />
+    </declare-styleable>
+</resources>
